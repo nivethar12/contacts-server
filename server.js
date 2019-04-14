@@ -7,6 +7,8 @@ var urlencodedParser = bodyParser.urlencoded({
 });
 
 
+
+
 app.use(function(req, res, next) {
     const origin = req.headers.origin;
     res.header('Access-Control-Allow-Origin', origin);
