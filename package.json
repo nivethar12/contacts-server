@@ -10,8 +10,9 @@
   "author": "nivetha",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "body-parser": "^1.18.3"
+    "shortid": "^2.2.14"
   },
   "prettier": {
     "trailingComma": "es5",

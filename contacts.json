@@ -1,35 +1,26 @@
 [
-    {
-        "contactImage": "assets/images/man.png",
-		"contactName": "David McCoy",
-        "favourite":"true",
-        "mobile":"+917868765643",
-        "email":"david.mccoy@gmail.com",
-        "id":1
-    },
-	{
-        "contactImage": "assets/images/boy.png",
-		"contactName": "Alenjandro Tran",
-        "favourite":"true",
-        "mobile":"+917868765642",
-        "email":"alenj.tran@gmail.com",
-        "id":2
-    },
-	{
-        "contactImage": "assets/images/girl.png",
-		"contactName": "Fransico Fowler",
-        "favourite":"true",
-        "mobile":"+917868760002",
-        "email":"frans.fowler@gmail.com",
-        "id":3
-    },
-	{
-        "contactImage": "assets/images/girl (1).png",
-		"contactName": "Luke haynes",
-        "favourite":"true",
-        "mobile":"+917838882888",
-        "email":"luke.haynes@gmail.com",
-        "id":4
-    }
-    
+  {
+    "contactImage": "assets/images/boy.png",
+    "contactName": "Alen Tran",
+    "favourite": true,
+    "mobile": "+917868765642",
+    "email": "alenj.tran@gmail.com",
+    "id": 1
+  },
+  {
+    "contactImage": "assets/images/girl.png",
+    "contactName": "Fransico Fowler",
+    "favourite": false,
+    "mobile": "+917868760002",
+    "email": "frans.fowler@gmail.com",
+    "id": 2
+  },
+  {
+    "contactImage": "assets/images/man.png",
+    "contactName": "Nivetha R",
+    "mobile": "9741701111",
+    "email": "nivetha@aaa.com",
+    "favourite": false,
+    "id": 3
+  }
 ]
